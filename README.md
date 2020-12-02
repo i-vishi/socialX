@@ -10,7 +10,7 @@ npm install
 npm run serve
 ```
 
-- Note run <a href="https://github.com/VAR-solutions/socialX-rest-api">REST API</a> server first then run this project
+- Note run <a href="https://github.com/i-vishi/socialX-rest-api">REST API</a> server first then run this project
 
 ### Snapshots
 
@@ -28,7 +28,7 @@ npm run serve
 - Personalised feed of following
 - Update profile
 - 1-on-1 chat
-- REST- API - <a href="https://github.com/VAR-solutions/socialX-rest-api">here</a>
+- REST- API - <a href="https://github.com/i-vishi/socialX-rest-api">here</a>
 
 ---
 
